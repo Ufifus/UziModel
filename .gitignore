@@ -1,0 +1,6 @@
+*.csv
+*.pyc
+*.xml
+*.sh
+*Datasets
+*venv
